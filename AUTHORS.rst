@@ -13,5 +13,5 @@ Human Maintainer
 ################
 
 - `Landon Bouma <https://github.com/landonb>`__
-  ``<tallybark+easyaspypi -at- gmail.com>``
+  ``<tallybark+easyaspypigetver -at- gmail.com>``
 

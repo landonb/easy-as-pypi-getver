@@ -1,6 +1,6 @@
-# This file exists within 'easy-as-pypi':
+# This file exists within 'easy-as-pypi-getver':
 #
-#   https://github.com/landonb/easy-as-pypi#🥧
+#   https://github.com/tallybark/easy-as-pypi-getver#🔢
 
 """
 Packaging instruction for setup tools.
@@ -20,10 +20,6 @@ from setuptools import find_packages, setup
 
 requirements = [
     # YOU: Add your project-specific requirements here.
-
-    # (lb): Click for life.
-    #  https://github.com/pallets/click
-    'click >= 7.0, < 8',
 ]
 
 # *** Minimal setup() function -- Prefer using config where possible.
@@ -39,9 +35,9 @@ setup(
 
     # Specify which package(s) to install.
     # - Without any rules, find_packages returns, e.g.,
-    #     ['easy_as_pypi', 'tests', 'tests.easy_as_pypi']
+    #     ['easy_as_pypi_getver', 'tests', 'tests.easy_as_pypi_getver']
     # - With the 'exclude*' rule, this call is essentially:
-    #     packages=['easy_as_pypi']
+    #     packages=['easy_as_pypi_getver']
     # MEH/2020-01-24: (lb): I saw 'docs' included in another projects'
     # find_packages -- but I'd guess we don't need. (It also had no
     # glob*.) E.g.,

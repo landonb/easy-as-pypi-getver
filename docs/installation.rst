@@ -10,29 +10,29 @@ Installation
 
 To install system-wide, run as superuser::
 
-    $ pip3 install easy-as-pypi
+    $ pip3 install easy-as-pypi-getver
 
 To install user-local, simply run::
 
-    $ pip3 install -U easy-as-pypi
+    $ pip3 install -U easy-as-pypi-getver
 
 To install within a |virtualenv|_, try::
 
-    $ mkvirtualenv easy-as-pypi
-    (easy-as-pypi) $ pip install release-ghub-pypi
+    $ mkvirtualenv easy-as-pypi-getver
+    (easy-as-pypi-getver) $ pip install release-ghub-pypi
 
 To develop on the project, link to the source files instead::
 
-    (easy-as-pypi) $ deactivate
-    $ rmvirtualenv easy-as-pypi
-    $ git clone git@github.com:landonb/easy-as-pypi.git
-    $ cd easy-as-pypi
-    $ mkvirtualenv -a $(pwd) --python=/usr/bin/python3.8 easy-as-pypi
-    (easy-as-pypi) $ make develop
+    (easy-as-pypi-getver) $ deactivate
+    $ rmvirtualenv easy-as-pypi-getver
+    $ git clone git@github.com:tallybark/easy-as-pypi-getver.git
+    $ cd easy-as-pypi-getver
+    $ mkvirtualenv -a $(pwd) --python=/usr/bin/python3.8 easy-as-pypi-getver
+    (easy-as-pypi-getver) $ make develop
 
 After creating the virtual environment,
 to start developing from a fresh terminal, run |workon|_::
 
-    $ workon easy-as-pypi
-    (easy-as-pypi) $ ...
+    $ workon easy-as-pypi-getver
+    (easy-as-pypi-getver) $ ...
 

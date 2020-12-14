@@ -7,7 +7,7 @@ Submodules
 easy\_as\_pypi.commands.easy\_as\_pypi module
 ---------------------------------------------
 
-.. automodule:: easy_as_pypi.commands.easy_as_pypi
+.. automodule:: easy_as_pypi_getver.commands.easy_as_pypi_getver
    :members:
    :undoc-members:
    :show-inheritance:
@@ -15,7 +15,7 @@ easy\_as\_pypi.commands.easy\_as\_pypi module
 Module contents
 ---------------
 
-.. automodule:: easy_as_pypi.commands
+.. automodule:: easy_as_pypi_getver.commands
    :members:
    :undoc-members:
    :show-inheritance:

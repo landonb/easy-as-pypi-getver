@@ -1,10 +1,10 @@
-# This file exists within 'easy-as-pypi':
+# This file exists within 'easy-as-pypi-getver':
 #
-#   https://github.com/landonb/easy-as-pypi#🥧
+#   https://github.com/tallybark/easy-as-pypi-getver#🔢
 
 # Makefile for Sphinx documentation
 
-PROJNAME = easy-as-pypi
+PROJNAME = easy-as-pypi-getver
 
 # You can set these variables from the command line.
 SPHINXOPTS    =

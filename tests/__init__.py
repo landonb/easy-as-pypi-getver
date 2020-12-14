@@ -1,8 +1,8 @@
-# This file exists within 'easy-as-pypi':
+# This file exists within 'easy-as-pypi-getver':
 #
-#   https://github.com/landonb/easy-as-pypi#🥧
+#   https://github.com/tallybark/easy-as-pypi-getver#🔢
 #
-# Copyright © 2020 Landon Bouma. All rights reserved.
+# Copyright © 2018-2020 Landon Bouma. All rights reserved.
 #
 # Permission is hereby granted,  free of charge,  to any person obtaining a
 # copy of this software and associated documentation files (the "Software"),
@@ -22,5 +22,5 @@
 # TORT OR OTHERWISE,  ARISING FROM,  OUT OF  OR IN  CONNECTION WITH THE
 # SOFTWARE   OR   THE   USE   OR   OTHER   DEALINGS  IN   THE  SOFTWARE.
 
-"""Tests for the ``easy-as-pypi`` package."""
+"""Tests for the ``easy-as-pypi-getver`` package."""
 

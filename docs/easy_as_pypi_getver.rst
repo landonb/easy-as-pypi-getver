@@ -7,12 +7,12 @@ Subpackages
 .. toctree::
    :maxdepth: 4
 
-   easy_as_pypi.commands
+   easy_as_pypi_getver.commands
 
 Module contents
 ---------------
 
-.. automodule:: easy_as_pypi
+.. automodule:: easy_as_pypi_getver
    :members:
    :undoc-members:
    :show-inheritance:

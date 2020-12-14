@@ -1,11 +1,11 @@
 .. ##########################
-.. easy-as-pypi Documentation
+.. easy-as-pypi-getver Documentation
 .. ##########################
 
-.. .. |easy-as-pypi| replace:: ``easy-as-pypi``
-.. .. _easy-as-pypi: https://github.com/landonb/easy-as-pypi
+.. .. |easy-as-pypi-getver| replace:: ``easy-as-pypi-getver``
+.. .. _easy-as-pypi-getver: https://github.com/tallybark/easy-as-pypi-getver
 
-.. Documentation for |easy-as-pypi|_.
+.. Documentation for |easy-as-pypi-getver|_.
 
 .. .. toctree::
 ..    :maxdepth: 4
