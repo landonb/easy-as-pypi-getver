@@ -19,7 +19,7 @@ from setuptools import find_packages, setup
 # *** Package requirements.
 
 requirements = [
-    # YOU: Add your project-specific requirements here.
+    # None!
 ]
 
 # *** Minimal setup() function -- Prefer using config where possible.
