@@ -1,0 +1,35 @@
+# This file exists within 'easy-as-pypi':
+#
+#   https://github.com/landonb/easy-as-pypi#🥧
+
+# USAGE: `/bin/cp .ignore.example .ignore` and personalize.
+
+.git/
+
+# Packaging — `make dist`.
+build/
+dist/
+*.egg-info/
+*.eggs/
+
+# Testing/CI tasks.
+.pytest_cache/
+.tox/
+
+# Coverage — `make coverage`.
+.coverage
+# Coverage — `make coverage-html`.
+htmlcov/
+# Coverage — `codecov` https://codecov.io.
+coverage.xml
+
+# Sphinx Docs — `make docs`.
+docs/_build
+docs/_themes/sphinx_rtd_theme/
+
+# Test output for Vim quickfix — `make test-local`.
+.make.out
+
+# Localization file.
+messages.pot
+
